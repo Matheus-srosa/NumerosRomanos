@@ -1,0 +1,21 @@
+body{
+    background-color: #2c4a8c93;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    margin: 0;
+}
+
+header{
+    text-align: center;
+    
+}
+
+main{
+    background-color: white;
+    width: 350px;
+    height: 350px;
+    border-radius: 10px;
+}
